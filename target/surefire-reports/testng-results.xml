@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91345" started-at="2019-07-01T20:05:20Z" finished-at="2019-07-01T20:06:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="91345" started-at="2019-07-01T20:05:20Z" finished-at="2019-07-01T20:06:51Z">
+      <class name="com.acti.TestCases.TC01_LoginPage">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="preCondition" is-config="true" duration-ms="7229" started-at="2019-07-01T16:05:52Z" finished-at="2019-07-01T16:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="initBrowser" duration-ms="11587" started-at="2019-07-01T16:05:59Z" finished-at="2019-07-01T16:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="tearDown" is-config="true" duration-ms="3470" started-at="2019-07-01T16:06:11Z" finished-at="2019-07-01T16:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="preCondition" is-config="true" duration-ms="11796" started-at="2019-07-01T16:06:14Z" finished-at="2019-07-01T16:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testLoginPageTitle()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="testLoginPageTitle" duration-ms="5069" started-at="2019-07-01T16:06:26Z" finished-at="2019-07-01T16:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="tearDown" is-config="true" duration-ms="3158" started-at="2019-07-01T16:06:31Z" finished-at="2019-07-01T16:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="preCondition" is-config="true" duration-ms="4582" started-at="2019-07-01T16:06:34Z" finished-at="2019-07-01T16:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testActiTimeLogo()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="testActiTimeLogo" duration-ms="4933" started-at="2019-07-01T16:06:39Z" finished-at="2019-07-01T16:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiTimeLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="tearDown" is-config="true" duration-ms="261" started-at="2019-07-01T16:06:44Z" finished-at="2019-07-01T16:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="preCondition" is-config="true" duration-ms="4249" started-at="2019-07-01T16:06:44Z" finished-at="2019-07-01T16:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="TestLoginFunctionality()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="TestLoginFunctionality" duration-ms="2987" started-at="2019-07-01T16:06:48Z" finished-at="2019-07-01T16:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginFunctionality -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acti.TestCases.TC01_LoginPage@171769e]" name="tearDown" is-config="true" duration-ms="174" started-at="2019-07-01T16:06:51Z" finished-at="2019-07-01T16:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.acti.TestCases.TC01_LoginPage -->
+      <class name="com.acti.TestCases.PreTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.acti.TestCases.PreTest@194a1b5]" name="preCondition" is-config="true" duration-ms="16878" started-at="2019-07-01T16:05:20Z" finished-at="2019-07-01T16:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.acti.TestCases.PreTest@194a1b5]" name="initBrowser" duration-ms="12670" started-at="2019-07-01T16:05:37Z" finished-at="2019-07-01T16:05:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.acti.TestCases.PreTest@194a1b5]" name="tearDown" is-config="true" duration-ms="2302" started-at="2019-07-01T16:05:49Z" finished-at="2019-07-01T16:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.acti.TestCases.PreTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
