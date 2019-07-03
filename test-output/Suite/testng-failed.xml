@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.acti.TestCases.TC01_LoginPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="TestLoginFunctionality"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.acti.TestCases.TC01_LoginPage -->
+      <class name="com.acti.TestCases.PreTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.acti.TestCases.PreTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
